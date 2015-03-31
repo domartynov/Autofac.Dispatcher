@@ -8,7 +8,6 @@
     <owners>Dmitry Martynov</owners>
     <licenseUrl>https://github.com/domartynov/Autofac.Dispatcher/LICENSE</licenseUrl>
     <projectUrl>https://github.com/domartynov/Autofac.Dispatcher</projectUrl>
-    <iconUrl></iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Command dispatcher and Event pub/sub extension for Autofac.</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
