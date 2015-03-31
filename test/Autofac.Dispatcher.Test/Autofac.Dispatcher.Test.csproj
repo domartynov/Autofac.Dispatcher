@@ -67,6 +67,7 @@
     <Compile Include="DispatcherTestBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReflectionHandlerRegistrationTests.cs" />
+    <Compile Include="TypeUnifiedDispatchTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

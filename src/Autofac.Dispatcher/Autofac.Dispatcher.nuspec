@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Autofac.Dispatcher</id>
+    <version>$version$</version>
+    <title>Autofac.Dispatcher</title>
+    <authors>Dmitry Martynov</authors>
+    <owners>Dmitry Martynov</owners>
+    <licenseUrl>https://github.com/domartynov/Autofac.Dispatcher/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/domartynov/Autofac.Dispatcher</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Command dispatcher and Event pub/sub extension for Autofac.</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Commands Dispatcher Events Pub/Sub Autofac</tags>
+  </metadata>
+</package>
